@@ -8,5 +8,5 @@ https://pokeapi.co/api/v2/pokemon/
 https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Math/random
 
 
-#vista del proyecto
+# vista del proyecto
 https://ajuanm.github.io/CardPokemon-API/
